@@ -1,0 +1,25 @@
+{
+  "name": "restapi-nodejs",
+  "version": "1.0.0",
+  "description": "Building a REST API with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaeedRafay/restapi-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaeedRafay/restapi-nodejs/issues"
+  },
+  "homepage": "https://github.com/SaeedRafay/restapi-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}
